@@ -1,6 +1,6 @@
 
   Feature: JsonPlaceHolder endpoint'inde Get request ile test yapar
-    @Api
+
     Scenario:TC001 44 numarali endpoint'e Get request gonderip sorgulama yapar
 
       Given Kullanici "jPHBaseUrl" base URL'ini kullanir
